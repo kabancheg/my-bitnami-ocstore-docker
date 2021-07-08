@@ -5,7 +5,7 @@
 ....
 
 https://github.com/bitnami/bitnami-docker-opencart
-https://github.com/bitnami/bitnami-docker-opencart/issues/98 - heroes
+https://github.com/bitnami/bitnami-docker-opencart/issues/98
 
 ### before start create persistence folders
 ```

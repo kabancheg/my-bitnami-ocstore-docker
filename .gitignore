@@ -1,0 +1,10 @@
+/3
+/opencart_data/*
+/opencart_storage_data/*
+
+**/__pycache__/
+*.py[cod]
+
+*.log
+
+.vscode

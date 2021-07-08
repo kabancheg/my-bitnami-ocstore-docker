@@ -1,4 +1,4 @@
-# Bitnami Docker Image for OpenCart
+# Bitnami Docker Image for ocStore (OpenCart)
 
 ## What is OpenCart?
 

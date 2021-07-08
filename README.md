@@ -15,4 +15,6 @@ mkdir opencart_storage_data
 sudo chown 1001:root opencart_storage_data
 ```
 ### let's start
+```
 docker-compose up
+```
